@@ -1,7 +1,7 @@
 console.log('Скрипт загрузился!');
 
 // Конфигурация - ЗАМЕНИ НА СВОЙ RAILWAY URL
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://backends-production-4dcf.up.railway.app';
 
 // Состояние приложения
 let state = {
