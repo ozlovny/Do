@@ -11,7 +11,7 @@ let state = {
   sessionId: null,
   currentPhone: null,
   activeTab: 'chats',
-  chats: [],
+  chats: ['+375000'],
   selectedChat: null,
   messages: [],
   messageText: '',
